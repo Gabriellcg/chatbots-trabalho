@@ -1,0 +1,153 @@
+categories:
+- tecnologia_da_informação
+
+conversations:
+- - O que é tecnologia da informação?
+  - É o conjunto de recursos tecnológicos e computacionais utilizados para armazenar, processar e transmitir informações.
+
+- - Qual a diferença entre hardware e software?
+  - Hardware são os componentes físicos do computador, enquanto software são os programas que rodam nele.
+
+- - O que é um sistema operacional?
+  - É o software que gerencia os recursos do computador e permite a interação entre o usuário e o hardware.
+
+- - O que significa backup?
+  - Backup é a cópia de segurança dos dados para evitar perda em caso de falhas ou acidentes.
+
+- - O que é nuvem (cloud computing)?
+  - É o uso de servidores remotos para armazenar, processar e acessar dados pela internet.
+
+- - O que é um firewall?
+  - É um sistema de segurança que controla o tráfego de rede, bloqueando acessos não autorizados.
+
+- - O que é um banco de dados?
+  - É um sistema que organiza e armazena informações de forma estruturada para fácil acesso e gerenciamento.
+
+- - O que é linguagem de programação?
+  - É um conjunto de regras e comandos usados para criar programas e sistemas computacionais.
+
+- - O que é inteligência artificial?
+  - É a capacidade de sistemas computacionais de simular comportamentos inteligentes, como aprender e tomar decisões.
+
+- - É o conjunto de práticas e tecnologias usadas para proteger sistemas e dados contra ataques digitais.
+  - Fundamental para proteger informações sensíveis em ambientes digitais.
+
+- - O que é rede de computadores?
+  - É um conjunto de dispositivos interconectados que compartilham recursos e informações.
+
+- - O que é IP?
+  - IP é o endereço que identifica um dispositivo em uma rede.
+
+- - O que é DNS?
+  - É o sistema que traduz nomes de sites em endereços IP.
+
+- - O que é Wi-Fi?
+  - É uma tecnologia que permite conexão sem fio à internet.
+
+- - O que é servidor?
+  - É um computador que fornece serviços ou recursos para outros dispositivos na rede.
+
+- - O que é programação?
+  - É o processo de escrever códigos para criar softwares e sistemas.
+
+- - O que é algoritmo?
+  - É uma sequência de passos para resolver um problema ou executar uma tarefa.
+
+- - O que é compilador?
+  - É um programa que traduz código fonte para linguagem de máquina.
+
+- - O que é IDE?
+  - É um ambiente de desenvolvimento integrado que ajuda na criação de programas.
+
+- - O que é Git?
+  - É um sistema de controle de versão que permite gerenciar alterações em código.
+
+- - O que é GitHub?
+  - É uma plataforma online para hospedar e compartilhar projetos com Git.
+
+- - O que é front-end?
+  - É a parte visual de um site ou aplicativo com a qual o usuário interage.
+
+- - O que é back-end?
+  - É a parte do sistema que processa dados e regras de negócio.
+
+- - O que é API?
+  - É uma interface que permite a comunicação entre diferentes sistemas.
+
+- - O que é machine learning?
+  - É uma técnica de inteligência artificial que permite que sistemas aprendam com dados.
+
+- - O que é Big Data?
+  - É o conjunto de dados muito grandes e complexos que exigem ferramentas especiais para análise.
+
+- - O que é DevOps?
+  - É a união entre desenvolvimento e operações para entregar software com mais eficiência.
+
+- - O que é computação quântica?
+  - É uma área que usa princípios da física quântica para criar computadores mais poderosos.
+
+- - O que é criptografia?
+  - É a técnica de proteger informações por meio de códigos.
+
+- - O que é engenharia de software?
+  - É a área que estuda e aplica métodos para desenvolver sistemas de forma eficiente e segura.
+
+- - O que é teste de software?
+  - É o processo de verificar se um programa funciona corretamente e atende aos requisitos.
+
+- - O que é manutenção de software?
+  - É a atualização ou correção de sistemas após sua entrega.
+ 
+- - O que é cloud storage?
+  - É o armazenamento de arquivos em servidores na nuvem, acessíveis pela internet.
+
+- - O que é SaaS?
+  - Software como Serviço, onde o usuário acessa o software pela internet sem precisar instalar.
+
+- - O que é IoT?
+  - Internet das Coisas, onde objetos físicos se conectam à internet para trocar dados.
+
+- - O que é um data center?
+  - É um local físico com servidores e infraestrutura para armazenar e processar dados.
+
+- - O que é um protocolo de rede?
+  - É um conjunto de regras que define como os dados são transmitidos entre dispositivos.
+
+- - O que é engenharia de redes?
+  - É a área que projeta, implementa e mantém redes de computadores.
+
+- - O que é help desk?
+  - É o suporte técnico que ajuda usuários com problemas em sistemas ou equipamentos.
+
+- - O que é ERP?
+  - Sistema integrado de gestão empresarial que automatiza processos como vendas, estoque e finanças.
+
+- - O que é CRM?
+  - Sistema para gerenciar o relacionamento com clientes e melhorar vendas.
+
+- - que é um script?
+  - É um conjunto de comandos que automatiza tarefas em sistemas.
+
+- - O que é virtualização?
+  - É a criação de versões virtuais de sistemas, servidores ou dispositivos.
+
+- - O que é Linux?
+  - É um sistema operacional de código aberto, usado em servidores e computadores.
+
+- - O que é HTML?
+  - É a linguagem usada para criar páginas da web.
+
+- - O que é CSS?
+  - É a linguagem usada para definir o estilo visual de páginas web.
+
+- - O que é JavaScript?
+  - É uma linguagem de programação usada para criar interatividade em páginas web.
+
+- - O que é phishing?
+  - É um tipo de golpe digital que tenta enganar o usuário para roubar dados.
+
+- - O que é autenticação de dois fatores?
+  - É uma camada extra de segurança que exige duas formas de verificação.
+
+- - O que é carreira em TI?
+  - É o caminho profissional em áreas como desenvolvimento, redes, segurança, análise de dados e suporte.

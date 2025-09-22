@@ -14,7 +14,6 @@ except:
     subprocess.run(["python", "-m", "spacy", "download", "pt_core_news_sm"])
     nlp = spacy.load('pt_core_news_sm')
 
-print("Carregando o dataset 'daily_dialog' do Hugging Face...")
 dataset = load_dataset("daily_dialog", trust_remote_code=True)
 
 dialogos = dataset['train']['dialog']
@@ -22,12 +21,8 @@ dialogos = dataset['train']['dialog']
 training_data = []
 limite_de_dialogos = 5000 
 
-print(f"Processando {limite_de_dialogos} diálogos para o treinamento...")
 for dialogo in dialogos[:limite_de_dialogos]:
     training_data.extend(dialogo)
-
-print(f"Total de {len(training_data)} frases carregadas.")
-
 
 db_path = "daily_dialog_bot.sqlite3"
 if os.path.exists(db_path):
@@ -55,6 +50,7 @@ while True:
     try:
         user_input = input("You: ")
         if user_input.lower() == 'exit':
+            print("\nFinishing, until next time!")
             break
         
         bot_response = chatbot.get_response(user_input)

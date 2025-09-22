@@ -34,6 +34,7 @@ params_coerente = {
     "do_sample": True,     
     "temperature": 0.2, 
     "top_k": 50,
+    "repetition_penalty":1.2
 }
 
 print("\n[VERSÃO COERENTE]")
